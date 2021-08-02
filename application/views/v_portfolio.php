@@ -48,11 +48,9 @@
 						<div class="container">
 							<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 								<div class="slider-text-inner">
-									<h2>Our Awesome Products</h2>
-									<p class="fh5co-lead"> Awesome source code by <a href="http://mfikri.com/" target="_blank">Rasulam</a></p>
+									<h2>Our Awesome Service</h2>
 								</div>
 							</div>
-						</div>
 					</li>
 				</ul>
 			</div>

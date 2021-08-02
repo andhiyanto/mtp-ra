@@ -52,7 +52,7 @@
                             <li><a href="<?php echo base_url() . '' ?>">Home</a></li>
                             <li><a href="<?php echo base_url() . 'about' ?>">About</a></li>
                             <li><a href="<?php echo base_url() . 'portfolio' ?>">Portfolio</a></li>
-                            <li><a href="<?php echo base_url() . 'artikel' ?>">Priceing</a></li>
+                            <li><a href="<?php echo base_url() . 'artikel' ?>">Service</a></li>
                             <li><a href="<?php echo base_url() . 'gallery' ?>">Gallery</a></li>
                             <li><a href="<?php echo base_url() . 'kontak' ?>">Contact</a></li>
 
@@ -81,7 +81,7 @@
                         <div class="container">
                             <div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
                                 <div class="slider-text-inner">
-                                    <h2>Take Your Business To The Next Level</h2>
+                                    <h2>Perawatan diri adalah bagian penting dari kehidupan yang sehat.</h2>
                                     <p><a href="#" class="btn btn-primary btn-lg">Get started</a></p>
                                 </div>
                             </div>
@@ -91,7 +91,7 @@
                         <div class="container">
                             <div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
                                 <div class="slider-text-inner">
-                                    <h2>We Think Different That Others Can't</h2>
+                                    <h2>RA sulam alis rahasia cantik yang aman bagi tubuh anda</h2>
                                     <p><a href="#" class="btn btn-primary btn-lg">Get started</a></p>
                                 </div>
                             </div>

@@ -59,10 +59,10 @@
 					<div class="col-md-3">
 						<h3>Contact Info.</h3>
 						<ul class="contact-info">
-							<li><i class="icon-map"></i>198 West 21th Street, Suite 721 New York NY 10016</li>
-							<li><i class="icon-phone"></i>+ 1235 2355 98</li>
-							<li><i class="icon-envelope"></i><a href="#">info@yoursite.com</a></li>
-							<li><i class="icon-globe"></i><a href="#">www.yoursite.com</a></li>
+							<li><i class="icon-map"></i>perum serang city blok L 11</li>
+							<li><i class="icon-phone"></i>+62</li>
+							<li><i class="icon-envelope"></i><a href="#">rasulamalis@gmail.com</a></li>
+							<li><i class="icon-globe"></i><a href="#">www.rasulamalis.com</a></li>
 						</ul>
 					</div>
 
@@ -97,25 +97,10 @@
 			</div>
 		</div>
 		<div class="container">
-			<div class="mapouter">
-				<div class="gmap_canvas"><iframe width="1050" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=perumahan%20serang%20city&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://fmovies2.org"></a><br>
-					<style>
-						.mapouter {
-							position: relative;
-							text-align: right;
-							height: 500px;
-							width: 1080px;
-						}
-					</style><a href="https://www.embedgooglemap.net">adding google maps to website</a>
-					<style>
-						.gmap_canvas {
-							overflow: hidden;
-							background: none !important;
-							height: 500px;
-							width: 1080px;
-						}
-					</style>
-				</div>
+			<div class="map-responsive">
+
+				<iframe src="https://maps.google.com/maps?q=perumahan%20serang%20city&t=&z=17&ie=UTF8&iwloc=&output=embed" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 			</div>
 		</div>
 		<br>

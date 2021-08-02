@@ -586,7 +586,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-why-us .item-block, .fh5co-services .item-block {
   margin-bottom: 1em;
-  float: left;
+  float: center;
 }
 #fh5co-why-us .item-block .icon, .fh5co-services .item-block .icon {
   display: block;
@@ -1396,3 +1396,28 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 /*# sourceMappingURL=style.css.map */
+.map-responsive{
+
+  overflow:hidden;
+
+  padding-bottom:56.25%;
+
+  position:relative;
+
+  height:0;
+
+}
+
+.map-responsive iframe{
+
+  left:0;
+
+  top:0;
+
+  height:100%;
+
+  width:100%;
+
+  position:absolute;
+
+}

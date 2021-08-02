@@ -10,7 +10,7 @@
 	<div class="fh5co-box animate-box">
 		<h2>Kenapa harus pilih
 			ra sulam alis</h2>
-		<p>Kami selalu membangun aplikasi dengan teknologi terbaru.</p>
+		<p>Kami selalu berusaha melayani anda dengan sepenuh hati.</p>
 		<p><a href="<?php echo base_url() . 'portfolio' ?>" class="btn btn-primary btn-outline with-arrow">Get started <i class="icon-arrow-right"></i></a></p>
 	</div>
 
@@ -19,9 +19,12 @@
 <div id="fh5co-why-us" class="animate-box">
 	<div class="container">
 		<div class="row">
+			<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
+				<h2>service</h2>
+			</div>
 			<div class="col-sm-8">
 
-				<div class="col-sm-6 text-center item-block">
+				<div class="col-md-6 text-center item-block">
 					<a href=""><span class="icon"><img src="<?php echo base_url() . 'theme/images/sulam.svg' ?>" class="img-responsiv"></span></a>
 
 				</div>
@@ -37,6 +40,7 @@
 					<a href=""><span class="icon"><img src="<?php echo base_url() . 'theme/images/more.svg' ?>" class="img-responsive"></span></a>
 
 				</div>
+
 			</div>
 			<div class="col-sm-4">
 				<span class="icon"><img src="<?php echo base_url() . 'theme/images/face.svg' ?>" class="img-responsive"></span>

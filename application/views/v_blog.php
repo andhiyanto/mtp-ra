@@ -53,8 +53,7 @@
 						<div class="container">
 							<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 								<div class="slider-text-inner">
-									<h2>Our Blog</h2>
-									<p class="fh5co-lead"> Awesome source code by <a href="http://mfikri.com/" target="_blank">Rasulam</a></p>
+									<h2>Our Service</h2>
 								</div>
 							</div>
 						</div>
@@ -68,7 +67,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6 col-md-offset-3 text-center fh5co-heading animate-box">
-						<h2>ARTIKEL TERBARU</h2>
+						<h2>new service</h2>
 					</div>
 					<?php
 					foreach ($data->result_array() as $j) :

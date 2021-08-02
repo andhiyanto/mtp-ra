@@ -46,7 +46,7 @@
 							<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 								<div class="slider-text-inner">
 									<h2>Who We Are</h2>
-									<p class="fh5co-lead"> Awesome source code by <a href="http://mfikri.com/" target="_blank">Rasulam</a></p>
+									<p class="fh5co-lead">Rasulam</p>
 								</div>
 							</div>
 						</div>
@@ -58,27 +58,16 @@
 		<div class="fh5co-about animate-box">
 			<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
 				<h2>About Us</h2>
-				<p>TECHO merupakan perusahaan yang bergerak dan memfokuskan diri pada bidang Konsultan IT dan Security. Seiring dengan pesatnya perkembangan teknologi dan keterkaitan nya dengan bidang usaha maka kami hadir di dunia teknologi informasi untuk memberikan solusi, perencanaan, dan strategi yang terintegerasi sebagai nilai tambah yang maksimal bagi kebutuhan dan permasalahan dibidang Teknologi Informasi.</p>
+				<p>RA awal berdiri pada tahun 2014 yang merupakan singkatan dari Rahayu yaitu nama belakang dari owner. Berawal Dari rumah kami telah memperoleh kepercayaan dari ratusan customer sehingga kami terus melakukan pengembangan pelayanan .
+					Kini RA telah berkembang menjadi tempat pelatihan dan treatment bagi puluhan mitra dan pelanggan kami Tidak hanya sampai disitu, Demi Kepuasan dan kepercayaan custumer kami pun membuka kemitrann yang sudah tersebar di provinsi banten. Dengan menghadirkan berbagai solusi perawatan tubuh yaitu sulam alis, venner gigi, gigi kelinci dan masih banyak lagi
+				</p>
 			</div>
+
 			<div class="container">
-				<div class="col-md-6">
-					<figure>
-						<img src="<?php echo base_url() . 'theme/images/image_1.jpg' ?>" alt="Free HTML5 Template" class="img-responsive">
-					</figure>
-				</div>
-				<div class="col-md-6">
-					<h3>Visi</h3>
-					<ul>
-						<li>Menjadi Perusahaan IT Profesional dengan solusi dan layanan yang optimal serta memiliki daya saing.</li>
-						<li>Memberikan Layanan dan Solusi yang terintegerasi dan mengikuti perkembangan dunia Teknologi Informasi.</li>
-					</ul>
-					<h3>Misi</h3>
-					<ul>
-						<li>Tidak hanya memberi solusi, kami memberikan layanan yang terpadu dalam setiap layanan Teknologi Informasi yang kami berikan.</li>
-						<li>Memberikan produk dan layanan yang berkualitas dengan layanan purna jual yang maksimal kepada setiap pelangan kami.</li>
-					</ul>
-				</div>
+				<img src="<?php echo base_url() . 'theme/images/face.svg' ?>" alt="Free HTML5 Template" class="img-responsive">
+
 			</div>
+
 		</div>
 
 		<div class="fh5co-team animate-box">
@@ -91,39 +80,33 @@
 					</div>
 					<div class="col-md-4 fh5co-staff">
 						<img src="<?php echo base_url() . 'theme/images/person3.jpg' ?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
-						<h3>Rasulam</h3>
-						<h4>Co-Founder, CEO</h4>
-						<p>M Fikri adalah seorang senior engineer lulusan perguruan tinggi di daerah Sumatera Barat.</p>
+						<h3>Ira Aghesia rahayu</h3>
+						<h4>Founder</h4>
+						<p>saya siap membantu kencantikan anda</p>
 						<ul class="fh5co-social">
 							<li><a href="#"><i class="icon-google"></i></a></li>
-							<li><a href="#"><i class="icon-dribbble"></i></a></li>
-							<li><a href="#"><i class="icon-twitter"></i></a></li>
 							<li><a href="#"><i class="icon-facebook"></i></a></li>
 							<li><a href="#"><i class="icon-instagram"></i></a></li>
 						</ul>
 					</div>
 					<div class="col-md-4 fh5co-staff">
-						<img src="<?php echo base_url() . 'theme/images/person2.jpg' ?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
-						<h3>Dedi Irawan</h3>
-						<h4>Co-Founder, CTO</h4>
-						<p>Dedi Irawan adalah seorang web designer lulusan perguruan tinggi di daerah Sumatera Barat.</p>
+						<img src="<?php echo base_url() . 'theme/images/person3.jpg' ?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
+						<h3>Ira Aghesia rahayu</h3>
+						<h4>Founder</h4>
+						<p>saya siap membantu kencantikan anda</p>
 						<ul class="fh5co-social">
 							<li><a href="#"><i class="icon-google"></i></a></li>
-							<li><a href="#"><i class="icon-dribbble"></i></a></li>
-							<li><a href="#"><i class="icon-twitter"></i></a></li>
 							<li><a href="#"><i class="icon-facebook"></i></a></li>
 							<li><a href="#"><i class="icon-instagram"></i></a></li>
 						</ul>
 					</div>
 					<div class="col-md-4 fh5co-staff">
-						<img src="<?php echo base_url() . 'theme/images/person4.jpg' ?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
-						<h3>Afif Ma'ruf</h3>
-						<h4>Co-Founder, Designer</h4>
-						<p>Afif Ma'ruf adalah seorang web designer lulusan perguruan tinggi di daerah Sumatera Barat.</p>
+						<img src="<?php echo base_url() . 'theme/images/person3.jpg' ?>" alt="Free HTML5 Bootstrap Template" class="img-responsive">
+						<h3>Ira Aghesia rahayu</h3>
+						<h4>Founder</h4>
+						<p>saya siap membantu kencantikan anda</p>
 						<ul class="fh5co-social">
 							<li><a href="#"><i class="icon-google"></i></a></li>
-							<li><a href="#"><i class="icon-dribbble"></i></a></li>
-							<li><a href="#"><i class="icon-twitter"></i></a></li>
 							<li><a href="#"><i class="icon-facebook"></i></a></li>
 							<li><a href="#"><i class="icon-instagram"></i></a></li>
 						</ul>
@@ -131,27 +114,55 @@
 				</div>
 			</div>
 		</div>
+		<div class="fh5co-team animate-box">
+			<div class="container">
+				<div>
+					<p><?php echo $this->session->flashdata('msg'); ?></p>
+				</div>
+
+				<div class="row">
+					<h1>Cek Validasi sertifikasi kursus</h1>
+					<p>Masukkan kode unik sertifikat untuk
+						pemeriksaan lebih lanjut pada sistem kami</p>
+
+					<form action="<?php echo base_url() . 'CekSertifikasi/auth' ?>" method="post">
+						<div class="form-group has-feedback">
+							<label for="kodeUnikSertifikat" class="form-label">Kode unik</label>
+							<input type="text" name="sertif" class="form-control" placeholder="Masukan nomor sertifikasi" required>
+							<span class="glyphicon glyphicon-user form-control-feedback"></span>
+						</div>
+						<div class="row">
+
+							<button type="submit" class="btn btn-primary btn-block btn-flat">Check Now</button>
+
+						</div>
+					</form>
+				</div>
+
+
+			</div>
+		</div>
 
 
 
 
 		<?php $this->load->view("layout/v_footer"); ?>
-	</div>
 
 
-	<!-- jQuery -->
-	<script src="<?php echo base_url() . 'theme/js/jquery.min.js' ?>"></script>
-	<!-- jQuery Easing -->
-	<script src="<?php echo base_url() . 'theme/js/jquery.easing.1.3.js' ?>"></script>
-	<!-- Bootstrap -->
-	<script src="<?php echo base_url() . 'theme/js/bootstrap.min.js' ?>"></script>
-	<!-- Waypoints -->
-	<script src="<?php echo base_url() . 'theme/js/jquery.waypoints.min.js' ?>"></script>
-	<!-- Flexslider -->
-	<script src="<?php echo base_url() . 'theme/js/jquery.flexslider-min.js' ?>"></script>
 
-	<!-- MAIN JS -->
-	<script src="<?php echo base_url() . 'theme/js/main.js' ?>"></script>
+		<!-- jQuery -->
+		<script src="<?php echo base_url() . 'theme/js/jquery.min.js' ?>"></script>
+		<!-- jQuery Easing -->
+		<script src="<?php echo base_url() . 'theme/js/jquery.easing.1.3.js' ?>"></script>
+		<!-- Bootstrap -->
+		<script src="<?php echo base_url() . 'theme/js/bootstrap.min.js' ?>"></script>
+		<!-- Waypoints -->
+		<script src="<?php echo base_url() . 'theme/js/jquery.waypoints.min.js' ?>"></script>
+		<!-- Flexslider -->
+		<script src="<?php echo base_url() . 'theme/js/jquery.flexslider-min.js' ?>"></script>
+
+		<!-- MAIN JS -->
+		<script src="<?php echo base_url() . 'theme/js/main.js' ?>"></script>
 
 </body>
 
